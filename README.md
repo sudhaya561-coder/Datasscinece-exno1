@@ -22,5 +22,9 @@ STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
             <<include your coding and its corressponding output screen shots here>>
+            
+[DS.ipynb](https://github.com/user-attachments/files/25043108/DS.ipynb)
+
 # Result
+
           <<include your Result here>>
