@@ -23,7 +23,7 @@ STEP 6: Use zscore of to remove outliers
 # Coding and Output
             <<include your coding and its corressponding output screen shots here>> 
             
-    [Uploading DS.ipynb…]()
+    
     
     <img width="597" height="785" alt="Screenshot 2026-02-03 160720" src="https://github.com/user-attachments/assets/9822545f-29f0-44d1-b249-22917753ace7" />
     
